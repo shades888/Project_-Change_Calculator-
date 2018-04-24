@@ -2,7 +2,20 @@ package Week2;
 import java.util.Scanner;
 import basics.Input;
 public class mondayhw2 {
+/*
+User Experience-
+user will see "enter numbers 1-99"
+user will be able to enter numbers
+user will see results after they enter numbers
+if user enters wrong numbers, invalid input will display
 
+App Developerment-
+
+team will make a method for user input
+team will make a method for calculator 
+team will combine both methods within the main.
+
+*/
 	public static void main(String [] arg) {
 		
 		 int c= functionB();
